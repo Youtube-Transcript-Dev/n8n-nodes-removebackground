@@ -2,6 +2,7 @@
 
 | Field | Value |
 | --- | --- |
+| GitHub | https://github.com/Youtube-Transcript-Dev/n8n-nodes-removebackground |
 | npm package | `n8n-nodes-removebackground@0.1.0` |
 | Install | Settings → Community nodes → `n8n-nodes-removebackground` |
 | Site | https://removebackground.dev |
